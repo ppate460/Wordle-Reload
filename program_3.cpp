@@ -4,7 +4,7 @@
     you will be provided stats on your overall game play.
 
     Author: Pratik Patel
-    System: Windows Visual Studio
+    System: Visual Studio Code
 
 */
 
